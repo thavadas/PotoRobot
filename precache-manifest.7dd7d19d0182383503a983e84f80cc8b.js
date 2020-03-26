@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5048ecf29326012e19276266b0782cd0",
+    "revision": "8d3ac5e3963388549d804647cc1960f2",
     "url": "/PotoRobot/index.html"
   },
   {

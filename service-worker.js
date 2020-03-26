@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/PotoRobot/precache-manifest.2117a4f9b9d18a18fc0fe2f6cca76168.js"
+  "/PotoRobot/precache-manifest.7dd7d19d0182383503a983e84f80cc8b.js"
 );
 
 self.addEventListener('message', (event) => {
